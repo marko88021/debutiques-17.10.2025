@@ -1,0 +1,222 @@
+{
+  "navigation": {
+    "services": "Diensten",
+    "showcase": "Showcase",
+    "process": "Proces",
+    "schedule": "Afspraak",
+    "privacy": "Privacybeleid",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "TRANSFORMEER UW\nMEUBELBEDRIJF MET\n3D-VISUALS DIE\nVERKOPEN",
+    "subtitle": "Wij maken verbluffende 3D-visualisaties die u helpen meer meubels te verkopen, meer klanten aan te trekken en u te onderscheiden van de concurrentie. Wij zijn niet zomaar renderaars – wij zijn visuele verhalenvertellers voor de meubelwereld.",
+    "cta": "Krijg een gratis projectofferte",
+    "viewShowcase": "Bekijk onze showcase"
+  },
+  "problem": {
+    "challenges": {
+      "title": "Uitdagingen bij meubelvisualisatie",
+      "expensivePhotoshoots": {
+        "title": "Dure fotoshoots",
+        "description": "Traditionele fotografie vereist fysieke prototypes, studiotijd en complexe logistiek."
+      },
+      "endlessPrototypes": {
+        "title": "Eindeloze prototypes",
+        "description": "Het maken van fysieke monsters voor elke materiaal- en kleurvariatie is kostbaar en tijdrovend."
+      },
+      "slowLaunches": {
+        "title": "Trage productlanceringen",
+        "description": "Wachten op fotografie vertraagt uw time-to-market en concurrentievoordeel."
+      },
+      "inconsistentPresentation": {
+        "title": "Inconsistente presentatie",
+        "description": "Verschillende fotografen en lichtomstandigheden creëren visuele inconsistenties in uw catalogus."
+      }
+    },
+    "solution": {
+      "title": "De Debutiques Oplossing",
+      "renderingsForAnyFinish": {
+        "title": "Renderings voor elke afwerking",
+        "description": "Creëer onbeperkte materiailvariaties digitaal — ofwel uit bestaande digitale bibliotheken of door professioneel scannen van fysieke monsters die u verstrekt. Ideaal voor hoogwaardige productconfigurators."
+      },
+      "featureFocusedAnimations": {
+        "title": "Feature-gerichte animaties",
+        "description": "Benadruk mechanismen, transformaties en unieke verkoopargumenten die onmogelijk te tonen zijn in statische beelden."
+      },
+      "360Visuals": {
+        "title": "360°-visualisaties voor e-commerce",
+        "description": "Verhoog conversieratio's met interactieve productweergaven die kopervertrouwen opbouwen."
+      },
+      "interiorStaging": {
+        "title": "Interieur staging",
+        "description": "Plaats uw producten in inspirerende omgevingen die klanten inspireren en de waargenomen waarde verhogen."
+      }
+    }
+  },
+  "services": {
+    "title": "Onze Diensten",
+    "renderings": {
+      "title": "Renderings",
+      "description": "Realistische productafbeeldingen vanuit elke hoek of materiaal."
+    },
+    "animations": {
+      "title": "Animaties",
+      "description": "Hoogimpact marketingvideo's die functies tonen."
+    },
+    "360Animations": {
+      "title": "360°-animaties",
+      "description": "Interactieve rotaties voor e-commerceplatforms."
+    },
+    "assemblyAnimations": {
+      "title": "Montage-animaties",
+      "description": "Stap-voor-stap visuele gidsen."
+    },
+    "interiorShots": {
+      "title": "Interieurafbeeldingen",
+      "description": "Volledig geënsceneerde omgevingen om producten te presenteren."
+    }
+  },
+  "socialProof": {
+    "productsVisualized": "Gevisualiseerde Producten",
+    "rendersDelivered": "Geleverde Renderings",
+    "catalogDistribution": "Catalogusdistributie",
+    "trustedBy": "Vertrouwd Door"
+  },
+  "showcase": {
+    "title": "Ons Werk",
+    "filters": {
+      "allWork": "Alle Werk",
+      "productRenders": "Product Renderings",
+      "interiorScenes": "Interieurscènes",
+      "videos": "Video's"
+    },
+    "categories": {
+      "product": "Product",
+      "interior": "Interieur",
+      "video": "Video"
+    },
+    "showingResults": "Toont {{count}} van {{total}} projecten"
+  },
+  "process": {
+    "title": "Hoe Het Werkt",
+    "step1": {
+      "title": "Stuur Uw Productdetails",
+      "description": "Verstrek CAD-bestanden, schetsen of foto's van uw meubels. We werken met wat u ook heeft."
+    },
+    "step2": {
+      "title": "Wij Creëren Prachtige Visualisaties",
+      "description": "Ons team ontwikkelt fotorealistische 3D-assets met iteratieve feedback om perfectie te garanderen."
+    },
+    "step3": {
+      "title": "U Lanceert & Verkoopt Meer",
+      "description": "Ontvang web- en printgeoptimaliseerde visualisaties die betrokkenheid stimuleren en conversies verhogen."
+    },
+    "cta": "Start Uw Project"
+  },
+  "faq": {
+    "title": "FAQ – Debutiques | CGI Studio & 3D Rendering",
+    "items": {
+      "renderingProcess": {
+        "question": "Hoe werkt het 3D-renderingproces?",
+        "answer": "Het 3D-renderingproces omvat verschillende belangrijke stappen. Aanvankelijk beginnen we met het begrijpen van uw product en doelen door middel van een on-site meeting of een virtueel videogesprek. Zodra de doelstellingen van uw project duidelijk zijn gedefinieerd, maken we een gedetailleerd 3D-model van het object of de scène. Vervolgens passen we texturen, materialen en realistische details toe op het model. We voegen dan zorgvuldig geconfigureerde verlichting toe om realistische schaduwen en reflecties te genereren. Ten slotte voeren we de renderingfase uit en transformeren uw 3D-model naar een fotorealistische 2D-afbeelding of animatie. Als u feedback heeft, verfijnen we de visualisaties totdat u volledig tevreden bent."
+      },
+      "cgiFurniture": {
+        "question": "Wat zijn CGI-meubels?",
+        "answer": "CGI staat voor \"Computer Generated Imagery\" (Computergegenereerde beelden). CGI-meubels verwijzen naar meubelmodellen die volledig digitaal op een computer worden gemaakt. Deze virtuele meubelstukken kunnen worden getoond in digitale omgevingen en effectief worden gebruikt in visuele marketing door meubel-, woninginrichting- en lifestylemerken."
+      },
+      "3dVisualization": {
+        "question": "Wat is precies 3D-visualisatie?",
+        "answer": "3D-visualisatie is een digitale representatie van fysieke objecten of scènes weergegeven in driedimensionale vorm als afbeeldingen of animaties. Bij Debutiques specialiseert ons toegewijde 3D-visualisatieteam zich in het produceren van hoogwaardige visuele content specifiek op maat gemaakt voor de meubel-, woning- en lifestyle-industrieën."
+      },
+      "turnaroundTime": {
+        "question": "Hoe lang duurt het om een 3D-rendering te produceren bij Debutiques?",
+        "answer": "De doorlooptijd voor 3D-renderings hangt sterk af van verschillende factoren, waaronder de complexiteit van het model, gewenste visuele kwaliteit en projectomvang. Een eenvoudige 3D-visualisatie kan doorgaans binnen enkele uren worden voltooid, terwijl complexere animaties enkele dagen of zelfs weken kunnen duren."
+      },
+      "businessBenefits": {
+        "question": "Hoe kan productvisualisatie mijn bedrijf ten goede komen?",
+        "answer": "Productvisualisatie stelt u in staat uw producten te tonen op manieren die moeilijk of onmogelijk zijn met traditionele fotografie. Het maakt gedetailleerde weergaven mogelijk vanuit elke mogelijke hoek, experimenteren met verlichtingsopstellingen en het testen van verschillende kleuren en texturen. Bovendien kan 3D-visualisatie de functionaliteit van een product duidelijk illustreren, gecompliceerde concepten demonstreren en de kosten aanzienlijk verlagen bij het presenteren van meerdere productvariaties."
+      },
+      "visualizationTypes": {
+        "question": "Welke soorten 3D-visualisaties biedt Debutiques aan?",
+        "answer": "Debutiques biedt een uitgebreid scala aan 3D-visualisatiediensten, waaronder:\n\n• Standalone productrenderings (met of zonder achtergrond)\n• Binnen- en buitenomgevingsvisualisaties\n• Contextuele productpresentaties binnen digitaal gecreëerde settings\n• 3D-animaties en videorenderings\n• Augmented Reality (AR) visualisaties, waardoor virtuele producten naadloos kunnen worden weergegeven in echte omgevingen\n\nOp zoek naar inspiratie? Voel je vrij om onze uitgelichte CGI-projecten te verkennen om te zien wat mogelijk is!"
+      },
+      "pricing": {
+        "question": "Hoeveel kost een CGI-visualisatie doorgaans?",
+        "answer": "Prijzen voor 3D-visualisatiediensten variëren op basis van complexiteit en type deliverable. Eenvoudige statische visualisaties kunnen beginnen vanaf enkele honderden dollars, terwijl uitgebreide animaties en AR-visualisaties enkele duizenden dollars kunnen kosten. Om een nauwkeurige en gepersonaliseerde offerte te krijgen, neem direct contact op—consultaties en offertes zijn altijd gratis en komen zonder verplichtingen."
+      },
+      "cgiStudio": {
+        "question": "Wat is precies een CGI-studio?",
+        "answer": "Een CGI- of 3D-studio is een gespecialiseerd bureau gericht op het creëren van digitale visualisaties en animaties voor bedrijven. Deze studio's bieden flexibiliteit vergeleken met het inhuren van interne 3D-artiesten, omdat u specifieke projecten kunt opdragen wanneer dat nodig is zonder de overhead en langetermijnverplichting van fulltime werknemers."
+      },
+      "gettingStarted": {
+        "question": "Hoe kan ik beginnen met het maken van een 3D-rendering voor mijn project?",
+        "answer": "Als u geïnteresseerd bent in het maken van een 3D-rendering, neem gewoon contact op met Debutiques. We bespreken uw specifieke behoeften, leggen uit welke soorten visualisaties uw product het beste zullen tonen, en geven u een duidelijke, niet-bindende offerte. Initiële consultaties zijn volledig gratis, waardoor u de mogelijkheid krijgt om onze aanpak te begrijpen en ervoor te zorgen dat we de juiste match zijn voor uw project."
+      }
+    }
+  },
+  "schedule": {
+    "title": "Vraag een offerte aan",
+    "description": "Boek een gratis consultatie om uw projectvereisten te bespreken en te verkennen hoe we kunnen helpen uw visie tot leven te brengen."
+  },
+  "contact": {
+    "title": "Laten We Samen Creëren",
+    "description": "Klaar om te transformeren hoe uw klanten uw meubels ervaren?",
+    "form": {
+      "name": "Naam",
+      "company": "Bedrijf",
+      "email": "E-mail",
+      "message": "Vertel ons over uw project",
+      "submit": "Voorstel Aanvragen",
+      "confidential": "100% vertrouwelijk. We reageren binnen 24 uur."
+    }
+  },
+  "footer": {
+    "description": "Fotorealistische 3D-meubelvisualisatie voor vooruitdenkende merken.",
+    "navigation": "Navigatie",
+    "contact": "Contact",
+    "connect": "Verbinden",
+    "email": "info@debutiques.com",
+    "locations": "Belgrado • Frankfurt",
+    "copyright": "© {{year}} Debutiques. Alle rechten voorbehouden."
+  },
+  "toast": {
+    "messageSent": "Bericht verzonden!",
+    "messageResponse": "We nemen binnen 24 uur contact met u op.",
+    "error": "Fout",
+    "messageFailed": "Kon bericht niet verzenden. Probeer opnieuw.",
+    "configError": "Configuratiefout",
+    "emailServiceError": "E-mailservice is niet correct geconfigureerd. Neem contact op met de beheerder."
+  },
+  "cookieConsent": {
+    "title": "Cookie-voorkeuren",
+    "description": "We gebruiken cookies om uw browse-ervaring te verbeteren, gepersonaliseerde content te leveren en ons verkeer te analyseren. Door op 'Alles accepteren' te klikken, stemt u in met ons gebruik van cookies.",
+    "simpleDescription": "We gebruiken cookies om uw ervaring op onze website te verbeteren. U kunt alle cookies accepteren of uw voorkeuren aanpassen.",
+    "required": "Altijd actief",
+    "privacyPolicyLink": "Lees ons privacybeleid",
+    "category": {
+      "essential": {
+        "title": "Essentiële cookies",
+        "description": "Deze cookies zijn noodzakelijk voor het functioneren van de website en kunnen niet worden uitgeschakeld. Ze worden meestal alleen ingesteld als reactie op acties die u onderneemt."
+      },
+      "analytics": {
+        "title": "Analyse-cookies",
+        "description": "Deze cookies helpen ons begrijpen hoe bezoekers omgaan met onze website door anoniem informatie te verzamelen en te rapporteren. Dit helpt ons de prestaties van onze website te verbeteren."
+      },
+      "marketing": {
+        "title": "Marketing-cookies",
+        "description": "Deze cookies worden gebruikt om gepersonaliseerde advertenties te leveren en de effectiviteit van onze marketingcampagnes te volgen. Ze kunnen door ons of door externe providers worden ingesteld."
+      },
+      "preferences": {
+        "title": "Voorkeur-cookies",
+        "description": "Deze cookies onthouden uw keuzes en personaliseren uw ervaring, zoals uw voorkeurstaal of regio-instellingen."
+      }
+    },
+    "buttons": {
+      "acceptAll": "Alle cookies accepteren",
+      "declineAll": "Alles weigeren",
+      "savePreferences": "Mijn voorkeuren opslaan",
+      "customizeSettings": "Instellingen aanpassen",
+      "backToSimple": "Terug naar eenvoudige weergave"
+    }
+  }
+}

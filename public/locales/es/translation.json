@@ -1,0 +1,222 @@
+{
+  "navigation": {
+    "services": "Servicios",
+    "showcase": "Showcase",
+    "process": "Proceso",
+    "schedule": "Programar",
+    "privacy": "Política de Privacidad",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "TRANSFORMA TU\nNEGOCIO DE MUEBLES\nCON VISUALES 3D\nQUE VENDEN",
+    "subtitle": "Creamos visualizaciones 3D impresionantes que te ayudan a vender más muebles, atraer más clientes y destacar de la competencia. No somos solo renderizadores — somos narradores visuales para el mundo del mueble.",
+    "cta": "Obtén una cotización gratuita",
+    "viewShowcase": "Ver nuestro showcase"
+  },
+  "problem": {
+    "challenges": {
+      "title": "Desafíos de la visualización de muebles",
+      "expensivePhotoshoots": {
+        "title": "Sesiones fotográficas costosas",
+        "description": "La fotografía tradicional requiere prototipos físicos, tiempo de estudio y logística compleja."
+      },
+      "endlessPrototypes": {
+        "title": "Prototipos infinitos",
+        "description": "Crear muestras físicas para cada variación de material y color es costoso y consume tiempo."
+      },
+      "slowLaunches": {
+        "title": "Lanzamientos de productos lentos",
+        "description": "Esperar por la fotografía retrasa tu tiempo de comercialización y ventaja competitiva."
+      },
+      "inconsistentPresentation": {
+        "title": "Presentación inconsistente",
+        "description": "Diferentes fotógrafos y condiciones de iluminación crean inconsistencias visuales en tu catálogo."
+      }
+    },
+    "solution": {
+      "title": "La solución Debutiques",
+      "renderingsForAnyFinish": {
+        "title": "Renderizados para cualquier acabado",
+        "description": "Crea variaciones de materiales ilimitadas digitalmente — ya sea de bibliotecas digitales existentes o escaneando profesionalmente muestras físicas que proporciones. Ideal para configuradores de productos de alta gama."
+      },
+      "featureFocusedAnimations": {
+        "title": "Animaciones enfocadas en características",
+        "description": "Destaca mecanismos, transformaciones y puntos de venta únicos imposibles de mostrar en imágenes estáticas."
+      },
+      "360Visuals": {
+        "title": "Visualizaciones 360° para e-commerce",
+        "description": "Aumenta las tasas de conversión con vistas interactivas del producto que construyen confianza del comprador."
+      },
+      "interiorStaging": {
+        "title": "Staging de interiores",
+        "description": "Coloca tus productos en ambientes aspiracionales que inspiran a los clientes y mejoran el valor percibido."
+      }
+    }
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "renderings": {
+      "title": "Renderizados",
+      "description": "Imágenes realistas del producto desde cualquier ángulo o material."
+    },
+    "animations": {
+      "title": "Animaciones",
+      "description": "Videos de marketing de alto impacto que muestran características."
+    },
+    "360Animations": {
+      "title": "Animaciones 360°",
+      "description": "Giros interactivos para plataformas de e-commerce."
+    },
+    "assemblyAnimations": {
+      "title": "Animaciones de ensamblaje",
+      "description": "Guías visuales paso a paso."
+    },
+    "interiorShots": {
+      "title": "Tomas de interiores",
+      "description": "Ambientes completamente escenificados para presentar productos."
+    }
+  },
+  "socialProof": {
+    "productsVisualized": "Productos visualizados",
+    "rendersDelivered": "Renderizados entregados",
+    "catalogDistribution": "Distribución de catálogo",
+    "trustedBy": "Confiado por"
+  },
+  "showcase": {
+    "title": "Nuestro trabajo",
+    "filters": {
+      "allWork": "Todo el trabajo",
+      "productRenders": "Renderizados de productos",
+      "interiorScenes": "Escenas de interiores",
+      "videos": "Videos"
+    },
+    "categories": {
+      "product": "Producto",
+      "interior": "Interior",
+      "video": "Video"
+    },
+    "showingResults": "Mostrando {{count}} de {{total}} proyectos"
+  },
+  "process": {
+    "title": "Cómo funciona",
+    "step1": {
+      "title": "Envía los detalles de tu producto",
+      "description": "Proporciona archivos CAD, bocetos o fotos de tus muebles. Trabajaremos con lo que tengas."
+    },
+    "step2": {
+      "title": "Creamos visualizaciones impresionantes",
+      "description": "Nuestro equipo desarrolla activos 3D fotorrealistas con retroalimentación iterativa para asegurar la perfección."
+    },
+    "step3": {
+      "title": "Tú lanzas y vendes más",
+      "description": "Recibe visualizaciones optimizadas para web e impresión que impulsan el engagement y aumentan las conversiones."
+    },
+    "cta": "Inicia tu proyecto"
+  },
+  "faq": {
+    "title": "FAQ – Debutiques | Estudio CGI & Renderizado 3D",
+    "items": {
+      "renderingProcess": {
+        "question": "¿Cómo funciona el proceso de renderizado 3D?",
+        "answer": "El proceso de renderizado 3D involucra varios pasos clave. Inicialmente, comenzamos entendiendo tu producto y objetivos a través de una reunión en sitio o una videollamada virtual. Una vez que los objetivos de tu proyecto están claramente definidos, creamos un modelo 3D detallado del objeto o escena. Luego, aplicamos texturas, materiales y detalles realistas al modelo. Después agregamos iluminación cuidadosamente configurada para generar sombras y reflejos realistas. Finalmente, realizamos la fase de renderizado, transformando tu modelo 3D en una imagen 2D fotorrealista o animación. Si tienes comentarios, refinamos las visualizaciones hasta que estés completamente satisfecho."
+      },
+      "cgiFurniture": {
+        "question": "¿Qué son los muebles CGI?",
+        "answer": "CGI significa \"Computer Generated Imagery\" (Imágenes generadas por computadora). Los muebles CGI se refieren a modelos de muebles creados completamente de forma digital en una computadora. Estas piezas de muebles virtuales pueden mostrarse en ambientes digitales y usarse efectivamente en marketing visual por marcas de muebles, decoración del hogar y estilo de vida."
+      },
+      "3dVisualization": {
+        "question": "¿Qué es exactamente la visualización 3D?",
+        "answer": "La visualización 3D es una representación digital de objetos físicos o escenas mostradas en forma tridimensional como imágenes o animaciones. En Debutiques, nuestro equipo dedicado de visualización 3D se especializa en producir contenido visual de alta gama específicamente adaptado para las industrias de muebles, hogar y estilo de vida."
+      },
+      "turnaroundTime": {
+        "question": "¿Cuánto tiempo toma producir un renderizado 3D en Debutiques?",
+        "answer": "El tiempo de entrega para renderizados 3D depende mucho de varios factores, incluyendo la complejidad del modelo, la calidad visual deseada y el alcance del proyecto. Una visualización 3D directa típicamente puede completarse en unas pocas horas, mientras que animaciones más complejas podrían tomar varios días o incluso semanas."
+      },
+      "businessBenefits": {
+        "question": "¿Cómo puede beneficiar la visualización de productos a mi negocio?",
+        "answer": "La visualización de productos te permite mostrar tus productos de maneras difíciles o imposibles con la fotografía tradicional. Permite vistas detalladas desde todos los ángulos posibles, experimentación con configuraciones de iluminación y prueba de diferentes colores y texturas. Además, la visualización 3D puede ilustrar claramente la funcionalidad de un producto, demostrar conceptos complicados y reducir significativamente los gastos al presentar múltiples variaciones de producto."
+      },
+      "visualizationTypes": {
+        "question": "¿Qué tipos de visualizaciones 3D ofrece Debutiques?",
+        "answer": "Debutiques ofrece una gama completa de servicios de visualización 3D, incluyendo:\n\n• Renderizados de productos independientes (con o sin fondo)\n• Visualizaciones de ambientes interiores y exteriores\n• Presentaciones de productos contextuales dentro de configuraciones creadas digitalmente\n• Animaciones 3D y renderizados de video\n• Visualizaciones de Realidad Aumentada (AR), permitiendo que los productos virtuales se muestren sin problemas en ambientes del mundo real\n\n¿Buscas inspiración? ¡Siéntete libre de explorar nuestros proyectos CGI destacados para ver qué es posible!"
+      },
+      "pricing": {
+        "question": "¿Cuánto cuesta típicamente una visualización CGI?",
+        "answer": "Los precios para servicios de visualización 3D varían según la complejidad y el tipo de entregable. Las visualizaciones estáticas simples pueden comenzar desde unos pocos cientos de dólares, mientras que las animaciones completas y visualizaciones AR pueden costar varios miles de dólares. Para obtener una cotización precisa y personalizada, contáctanos directamente—las consultas y cotizaciones siempre son gratuitas y sin compromiso."
+      },
+      "cgiStudio": {
+        "question": "¿Qué es exactamente un estudio CGI?",
+        "answer": "Un estudio CGI o 3D es una agencia especializada enfocada en crear visualizaciones digitales y animaciones para negocios. Estos estudios ofrecen flexibilidad comparado con contratar artistas 3D internos, ya que puedes comisionar proyectos específicos cuando sea necesario sin los gastos generales y el compromiso a largo plazo de empleados de tiempo completo."
+      },
+      "gettingStarted": {
+        "question": "¿Cómo puedo comenzar a crear un renderizado 3D para mi proyecto?",
+        "answer": "Si estás interesado en crear un renderizado 3D, simplemente contacta a Debutiques. Discutiremos tus necesidades específicas, explicaremos qué tipos de visualizaciones mostrarán mejor tu producto, y te proporcionaremos una cotización clara y no vinculante. Las consultas iniciales son completamente gratuitas, dándote la oportunidad de entender nuestro enfoque y asegurar que somos la opción correcta para tu proyecto."
+      }
+    }
+  },
+  "schedule": {
+    "title": "Solicitar presupuesto",
+    "description": "Reserva una consulta gratuita para discutir los requisitos de tu proyecto y explorar cómo podemos ayudar a dar vida a tu visión."
+  },
+  "contact": {
+    "title": "Creemos juntos",
+    "description": "¿Listo para transformar cómo tus clientes experimentan tus muebles?",
+    "form": {
+      "name": "Nombre",
+      "company": "Empresa",
+      "email": "Email",
+      "message": "Cuéntanos sobre tu proyecto",
+      "submit": "Solicitar propuesta",
+      "confidential": "100% confidencial. Responderemos en 24 horas."
+    }
+  },
+  "footer": {
+    "description": "Visualización 3D fotorrealista de muebles para marcas visionarias.",
+    "navigation": "Navegación",
+    "contact": "Contacto",
+    "connect": "Conectar",
+    "email": "info@debutiques.com",
+    "locations": "Belgrado • Frankfurt",
+    "copyright": "© {{year}} Debutiques. Todos los derechos reservados."
+  },
+  "toast": {
+    "messageSent": "¡Mensaje enviado!",
+    "messageResponse": "Te contactaremos en 24 horas.",
+    "error": "Error",
+    "messageFailed": "Error al enviar mensaje. Inténtalo de nuevo.",
+    "configError": "Error de configuración",
+    "emailServiceError": "El servicio de email no está configurado correctamente. Contacta al administrador."
+  },
+  "cookieConsent": {
+    "title": "Preferencias de cookies",
+    "description": "Utilizamos cookies para mejorar tu experiencia de navegación, servir contenido personalizado y analizar nuestro tráfico. Al hacer clic en 'Aceptar todo', consientes nuestro uso de cookies.",
+    "simpleDescription": "Utilizamos cookies para mejorar tu experiencia en nuestro sitio web. Puedes aceptar todas las cookies o personalizar tus preferencias.",
+    "required": "Siempre activo",
+    "privacyPolicyLink": "Lee nuestra Política de Privacidad",
+    "category": {
+      "essential": {
+        "title": "Cookies esenciales",
+        "description": "Estas cookies son necesarias para que el sitio web funcione y no se pueden desactivar. Generalmente solo se establecen en respuesta a acciones realizadas por ti."
+      },
+      "analytics": {
+        "title": "Cookies de análisis",
+        "description": "Estas cookies nos ayudan a entender cómo los visitantes interactúan con nuestro sitio web recopilando y reportando información de forma anónima. Esto nos ayuda a mejorar el rendimiento de nuestro sitio web."
+      },
+      "marketing": {
+        "title": "Cookies de marketing",
+        "description": "Estas cookies se utilizan para entregar anuncios personalizados y rastrear la efectividad de nuestras campañas de marketing. Pueden ser establecidas por nosotros o por proveedores terceros."
+      },
+      "preferences": {
+        "title": "Cookies de preferencias",
+        "description": "Estas cookies recuerdan tus elecciones y personalizan tu experiencia, como tu idioma preferido o configuraciones de región."
+      }
+    },
+    "buttons": {
+      "acceptAll": "Aceptar todas las cookies",
+      "declineAll": "Rechazar todas",
+      "savePreferences": "Guardar mis preferencias",
+      "customizeSettings": "Personalizar configuraciones",
+      "backToSimple": "Volver a vista simple"
+    }
+  }
+}

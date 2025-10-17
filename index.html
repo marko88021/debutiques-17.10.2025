@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Debutiques | 3D Furniture Visualization</title>
+
+    <!-- SEO -->
+    <meta name="description" content="Transform your furniture with 3D visuals that sell. High-quality renderings, animations, and 360° views for e-commerce." />
+    <meta property="og:title" content="Debutiques | 3D Furniture Visualization" />
+    <meta property="og:description" content="Transform your furniture with 3D visuals that sell." />
+    <meta property="og:image" content="/assets/debutilogo2.png" />
+    <meta name="theme-color" content="#000000" />
+
+    <!-- Fonts: fast & safe -->
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/hnl7dqk.css">
+
+    <!-- Optional: Spline viewer (kept deferred; remove if unused anywhere) -->
+    <script type="module" src="https://unpkg.com/@splinetool/viewer@1.10.14/build/spline-viewer.js" defer></script>
+
+    <!-- Preload only critical, lightweight images (use .webp once converted) -->
+    <link rel="preload" href="/assets/interiors/Walnut_KitchenCloseup_01_Kitchen0001.webp" as="image" type="image/webp" fetchpriority="high" />
+    <link rel="preload" href="/assets/debutilogo2.webp" as="image" type="image/webp" />
+
+    <!-- If you haven't converted yet, temporarily keep JPEG/PNG preloads:
+    <link rel="preload" href="/assets/interiors/Walnut_KitchenCloseup_01_Kitchen0001.jpg" as="image" type="image/jpeg" fetchpriority="high" />
+    <link rel="preload" href="/assets/debutilogo2.png" as="image" type="image/png" />
+    -->
+
+    <!-- IMPORTANT: No video/font file preloads to avoid network contention -->
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

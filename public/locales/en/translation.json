@@ -1,0 +1,222 @@
+{
+  "navigation": {
+    "services": "Services",
+    "showcase": "Showcase",
+    "process": "Process",
+    "schedule": "Schedule",
+    "privacy": "Privacy Policy",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "TRANSFORM YOUR\nFURNITURE BUSINESS\nWITH 3D VISUALS\nTHAT SELL",
+    "subtitle": "We create stunning 3D visuals that help you sell more furniture, attract more customers, and stand out from the competition. We are not just renderers — we are visual storytellers for the furniture world.",
+    "cta": "Get a Free Project Quote",
+    "viewShowcase": "View Our Showcase"
+  },
+  "problem": {
+    "challenges": {
+      "title": "Furniture Visualization Challenges",
+      "expensivePhotoshoots": {
+        "title": "Expensive photoshoots",
+        "description": "Traditional photography requires physical prototypes, studio time, and complex logistics."
+      },
+      "endlessPrototypes": {
+        "title": "Endless prototypes",
+        "description": "Creating physical samples for each material and color variation is costly and time-consuming."
+      },
+      "slowLaunches": {
+        "title": "Slow product launches",
+        "description": "Waiting for photography delays your time-to-market and competitive advantage."
+      },
+      "inconsistentPresentation": {
+        "title": "Inconsistent presentation",
+        "description": "Different photographers and lighting conditions create visual inconsistencies across your catalog."
+      }
+    },
+    "solution": {
+      "title": "The Debutiques Solution",
+      "renderingsForAnyFinish": {
+        "title": "Renderings for any finish",
+        "description": "Create unlimited material variations digitally — either from existing digital libraries or by professionally scanning physical samples you provide. Ideal for high-end product configurators."
+      },
+      "featureFocusedAnimations": {
+        "title": "Feature-focused animations",
+        "description": "Highlight mechanisms, transformations, and unique selling points impossible to show in static images."
+      },
+      "360Visuals": {
+        "title": "360° visuals for e-commerce",
+        "description": "Increase conversion rates with interactive product views that build buyer confidence."
+      },
+      "interiorStaging": {
+        "title": "Interior staging",
+        "description": "Place your products in aspirational environments that inspire customers and enhance perceived value."
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "renderings": {
+      "title": "Renderings",
+      "description": "Realistic product images for any angle or material."
+    },
+    "animations": {
+      "title": "Animations",
+      "description": "High-impact marketing videos showing features."
+    },
+    "360Animations": {
+      "title": "360° Animations",
+      "description": "Interactive spins for e-commerce platforms."
+    },
+    "assemblyAnimations": {
+      "title": "Assembly Animations",
+      "description": "Step-by-step visual guides."
+    },
+    "interiorShots": {
+      "title": "Interior Shots",
+      "description": "Fully staged environments to present products."
+    }
+  },
+  "socialProof": {
+    "productsVisualized": "Products Visualized",
+    "rendersDelivered": "Renders Delivered",
+    "catalogDistribution": "Catalog Distribution",
+    "trustedBy": "Trusted By"
+  },
+  "showcase": {
+    "title": "Our Work",
+    "filters": {
+      "allWork": "All Work",
+      "productRenders": "Product Renders",
+      "interiorScenes": "Interior Scenes",
+      "videos": "Videos"
+    },
+    "categories": {
+      "product": "Product",
+      "interior": "Interior",
+      "video": "Video"
+    },
+    "showingResults": "Showing {{count}} of {{total}} projects"
+  },
+  "process": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Send Your Product Details",
+      "description": "Provide CAD files, sketches, or photos of your furniture. We'll work with whatever you have."
+    },
+    "step2": {
+      "title": "We Create Stunning Visuals",
+      "description": "Our team develops photorealistic 3D assets with iterative feedback to ensure perfection."
+    },
+    "step3": {
+      "title": "You Launch & Sell More",
+      "description": "Receive web and print-optimized visuals that drive engagement and boost conversions."
+    },
+    "cta": "Start Your Project"
+  },
+  "faq": {
+    "title": "FAQ – Debutiques | CGI Studio & 3D Rendering",
+    "items": {
+      "renderingProcess": {
+        "question": "How does the 3D rendering process work?",
+        "answer": "The 3D rendering process involves several key steps. Initially, we start by understanding your product and goals through an on-site meeting or a virtual video call. Once your project's objectives are clearly defined, we create a detailed 3D model of the object or scene. Next, we apply textures, materials, and realistic detailing to the model. We then add carefully configured lighting to generate realistic shadows and reflections. Finally, we perform the rendering phase, transforming your 3D model into a photorealistic 2D image or animation. If you have feedback, we refine the visuals until you're completely satisfied."
+      },
+      "cgiFurniture": {
+        "question": "What is CGI furniture?",
+        "answer": "CGI stands for \"Computer Generated Imagery.\" CGI furniture refers to furniture models created entirely digitally on a computer. These virtual furniture pieces can be showcased in digital environments and used effectively in visual marketing by furniture, home decor, and lifestyle brands."
+      },
+      "3dVisualization": {
+        "question": "What exactly is 3D visualization?",
+        "answer": "3D visualization is a digital representation of physical objects or scenes displayed in three-dimensional form as images or animations. At Debutiques, our dedicated 3D visualization team specializes in producing high-end visual content specifically tailored for the furniture, home, and lifestyle industries."
+      },
+      "turnaroundTime": {
+        "question": "How long does it take to produce a 3D rendering at Debutiques?",
+        "answer": "The turnaround time for 3D renderings depends greatly on several factors, including the complexity of the model, desired visual quality, and project scope. A straightforward 3D visualization can typically be completed within a few hours, while more complex animations might take several days or even weeks."
+      },
+      "businessBenefits": {
+        "question": "How can product visualization benefit my business?",
+        "answer": "Product visualization allows you to showcase your products in ways difficult or impossible with traditional photography. It enables detailed views from every possible angle, experimenting with lighting setups, and testing different colors and textures. Moreover, 3D visualization can clearly illustrate a product's functionality, demonstrate complicated concepts, and significantly reduce expenses when presenting multiple product variations."
+      },
+      "visualizationTypes": {
+        "question": "What types of 3D visualizations does Debutiques offer?",
+        "answer": "Debutiques offers a comprehensive range of 3D visualization services, including:\n\n• Standalone product renderings (with or without background)\n• Interior and exterior environment visualizations\n• Contextual product presentations within digitally created settings\n• 3D animations and video renderings\n• Augmented Reality (AR) visualizations, allowing virtual products to be displayed seamlessly in real-world environments\n\nLooking for inspiration? Feel free to explore our featured CGI projects to see what's possible!"
+      },
+      "pricing": {
+        "question": "How much does a CGI visualization typically cost?",
+        "answer": "Pricing for 3D visualization services varies based on complexity and type of deliverable. Simple static visualizations can start from a few hundred dollars, whereas comprehensive animations and AR visualizations may cost several thousand dollars. To get an accurate and personalized quote, please reach out directly—consultations and quotes are always free and come with no obligation."
+      },
+      "cgiStudio": {
+        "question": "What exactly is a CGI studio?",
+        "answer": "A CGI or 3D studio is a specialized agency focused on creating digital visualizations and animations for businesses. These studios offer flexibility compared to hiring in-house 3D artists, as you can commission specific projects whenever needed without the overhead and long-term commitment of full-time employees."
+      },
+      "gettingStarted": {
+        "question": "How can I get started with creating a 3D rendering for my project?",
+        "answer": "If you're interested in creating a 3D rendering, simply reach out to Debutiques. We'll discuss your specific needs, explain what types of visualizations will best showcase your product, and provide you with a clear, non-binding quote. Initial consultations are completely free, giving you the opportunity to understand our approach and ensure we're the right fit for your project."
+      }
+    }
+  },
+  "schedule": {
+    "title": "Get a Custom Quote",
+    "description": "Book a free consultation to discuss your project requirements and explore how we can help bring your vision to life."
+  },
+  "contact": {
+    "title": "Let's Create Together",
+    "description": "Ready to transform how your customers experience your furniture?",
+    "form": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "message": "Tell us about your project",
+      "submit": "Request Proposal",
+      "confidential": "100% confidential. We'll respond within 24 hours."
+    }
+  },
+  "footer": {
+    "description": "Photorealistic 3D furniture visualization for forward-thinking brands.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "connect": "Connect",
+    "email": "info@debutiques.com",
+    "locations": "Belgrade • Frankfurt",
+    "copyright": "© {{year}} Debutiques. All rights reserved."
+  },
+  "toast": {
+    "messageSent": "Message sent!",
+    "messageResponse": "We'll get back to you within 24 hours.",
+    "error": "Error",
+    "messageFailed": "Failed to send message. Please try again.",
+    "configError": "Configuration Error",
+    "emailServiceError": "Email service is not properly configured. Please contact the administrator."
+  },
+  "cookieConsent": {
+    "title": "Cookie Preferences",
+    "description": "We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking 'Accept All', you consent to our use of cookies.",
+    "simpleDescription": "We use cookies to improve your experience on our website. You can accept all cookies or customize your preferences.",
+    "required": "Always Active",
+    "privacyPolicyLink": "Read our Privacy Policy",
+    "category": {
+      "essential": {
+        "title": "Essential Cookies",
+        "description": "These cookies are necessary for the website to function and cannot be switched off. They are usually only set in response to actions made by you which amount to a request for services."
+      },
+      "analytics": {
+        "title": "Analytics Cookies",
+        "description": "These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously. This helps us improve our website's performance."
+      },
+      "marketing": {
+        "title": "Marketing Cookies",
+        "description": "These cookies are used to deliver personalized advertisements and track the effectiveness of our marketing campaigns. They may be set by us or third-party providers."
+      },
+      "preferences": {
+        "title": "Preference Cookies",
+        "description": "These cookies remember your choices and personalize your experience, such as your preferred language or region settings."
+      }
+    },
+    "buttons": {
+      "acceptAll": "Accept All Cookies",
+      "declineAll": "Decline All",
+      "savePreferences": "Save My Preferences",
+      "customizeSettings": "Customize Settings",
+      "backToSimple": "Back to Simple View"
+    }
+  }
+}

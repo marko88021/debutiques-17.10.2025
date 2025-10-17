@@ -1,0 +1,222 @@
+{
+  "navigation": {
+    "services": "Tjenester",
+    "showcase": "Showcase",
+    "process": "Proces",
+    "schedule": "Book tid",
+    "privacy": "Privatlivspolitik",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "FORVANDL DIN\nMØBELVIRKSOMHED MED\n3D-VISUALISERINGER\nDER SÆLGER",
+    "subtitle": "Vi skaber fantastiske 3D-visualiseringer, der hjælper dig med at sælge flere møbler, tiltrække flere kunder og skille dig ud fra konkurrenterne. Vi er ikke bare renderingsfolk – vi er visuelle historiefortællere for møbelverdenen.",
+    "cta": "Få et gratis projekttilbud",
+    "viewShowcase": "Se vores showcase"
+  },
+  "problem": {
+    "challenges": {
+      "title": "Udfordringer med møbelvisualisering",
+      "expensivePhotoshoots": {
+        "title": "Dyre fotosessions",
+        "description": "Traditionel fotografering kræver fysiske prototyper, studietid og kompleks logistik."
+      },
+      "endlessPrototypes": {
+        "title": "Endeløse prototyper",
+        "description": "At skabe fysiske prøver for hver materiale- og farvevariation er dyrt og tidskrævende."
+      },
+      "slowLaunches": {
+        "title": "Langsomme produktlanceringer",
+        "description": "At vente på fotografering forsinker din time-to-market og konkurrencefordel."
+      },
+      "inconsistentPresentation": {
+        "title": "Inkonsistent præsentation",
+        "description": "Forskellige fotografer og lysforhold skaber visuelle inkonsistenser på tværs af dit katalog."
+      }
+    },
+    "solution": {
+      "title": "Debutiques løsning",
+      "renderingsForAnyFinish": {
+        "title": "Renderinger for enhver finish",
+        "description": "Skab ubegrænsede materialevariationer digitalt — enten fra eksisterende digitale biblioteker eller ved professionel scanning af fysiske prøver, du leverer. Ideelt til avancerede produktkonfiguratorer."
+      },
+      "featureFocusedAnimations": {
+        "title": "Feature-fokuserede animationer",
+        "description": "Fremhæv mekanismer, transformationer og unikke salgsargumenter, der er umulige at vise i statiske billeder."
+      },
+      "360Visuals": {
+        "title": "360°-visualiseringer til e-handel",
+        "description": "Øg konverteringsrater med interaktive produktvisninger, der opbygger købertillid."
+      },
+      "interiorStaging": {
+        "title": "Interiør staging",
+        "description": "Placer dine produkter i inspirerende miljøer, der inspirerer kunder og øger opfattet værdi."
+      }
+    }
+  },
+  "services": {
+    "title": "Vores tjenester",
+    "renderings": {
+      "title": "Renderinger",
+      "description": "Realistiske produktbilleder fra enhver vinkel eller materiale."
+    },
+    "animations": {
+      "title": "Animationer",
+      "description": "Høj-impact marketingvideoer, der viser funktioner."
+    },
+    "360Animations": {
+      "title": "360°-animationer",
+      "description": "Interaktive rotationer til e-handelsplatforme."
+    },
+    "assemblyAnimations": {
+      "title": "Samle-animationer",
+      "description": "Trin-for-trin visuelle guider."
+    },
+    "interiorShots": {
+      "title": "Interiørbilleder",
+      "description": "Fuldt iscenesatte miljøer til produktpræsentation."
+    }
+  },
+  "socialProof": {
+    "productsVisualized": "Visualiserede produkter",
+    "rendersDelivered": "Leverede renderinger",
+    "catalogDistribution": "Katalogdistribution",
+    "trustedBy": "Betroet af"
+  },
+  "showcase": {
+    "title": "Vores arbejde",
+    "filters": {
+      "allWork": "Alt arbejde",
+      "productRenders": "Produktrenderinger",
+      "interiorScenes": "Interiørscener",
+      "videos": "Videoer"
+    },
+    "categories": {
+      "product": "Produkt",
+      "interior": "Interiør",
+      "video": "Video"
+    },
+    "showingResults": "Viser {{count}} af {{total}} projekter"
+  },
+  "process": {
+    "title": "Sådan fungerer det",
+    "step1": {
+      "title": "Send dine produktdetaljer",
+      "description": "Levér CAD-filer, skitser eller fotos af dine møbler. Vi arbejder med hvad end du har."
+    },
+    "step2": {
+      "title": "Vi skaber fantastiske visualiseringer",
+      "description": "Vores team udvikler fotorealistiske 3D-aktiver med iterativ feedback for at sikre perfektion."
+    },
+    "step3": {
+      "title": "Du lancerer og sælger mere",
+      "description": "Modtag web- og print-optimerede visualiseringer, der driver engagement og øger konverteringer."
+    },
+    "cta": "Start dit projekt"
+  },
+  "faq": {
+    "title": "FAQ – Debutiques | CGI Studio & 3D Rendering",
+    "items": {
+      "renderingProcess": {
+        "question": "Hvordan fungerer 3D-renderingsprocessen?",
+        "answer": "3D-renderingsprocessen involverer flere vigtige trin. Indledningsvis starter vi med at forstå dit produkt og dine mål gennem et møde på stedet eller et virtuelt videoopkald. Når dit projekts mål er klart defineret, skaber vi en detaljeret 3D-model af objektet eller scenen. Derefter anvender vi teksturer, materialer og realistiske detaljer på modellen. Vi tilføjer derefter omhyggeligt konfigureret belysning for at generere realistiske skygger og refleksioner. Endelig udfører vi renderingsfasen og transformerer din 3D-model til et fotorealistisk 2D-billede eller animation. Hvis du har feedback, forfiner vi visualiseringerne, indtil du er helt tilfreds."
+      },
+      "cgiFurniture": {
+        "question": "Hvad er CGI-møbler?",
+        "answer": "CGI står for \"Computer Generated Imagery\" (Computergenererede billeder). CGI-møbler refererer til møbelmodeller, der er skabt helt digitalt på en computer. Disse virtuelle møbler kan vises i digitale miljøer og bruges effektivt i visuel markedsføring af møbel-, boligindretnings- og livsstilsbrands."
+      },
+      "3dVisualization": {
+        "question": "Hvad er præcis 3D-visualisering?",
+        "answer": "3D-visualisering er en digital repræsentation af fysiske objekter eller scener vist i tredimensionel form som billeder eller animationer. Hos Debutiques specialiserer vores dedikerede 3D-visualiseringsteam sig i at producere high-end visuelt indhold specifikt skræddersyet til møbel-, bolig- og livsstilsindustrierne."
+      },
+      "turnaroundTime": {
+        "question": "Hvor lang tid tager det at producere en 3D-rendering hos Debutiques?",
+        "answer": "Gennemførelsestiden for 3D-renderinger afhænger meget af flere faktorer, herunder modellens kompleksitet, ønsket visuel kvalitet og projektomfang. En ligetil 3D-visualisering kan typisk fuldføres inden for få timer, mens mere komplekse animationer kan tage flere dage eller endda uger."
+      },
+      "businessBenefits": {
+        "question": "Hvordan kan produktvisualisering gavne min virksomhed?",
+        "answer": "Produktvisualisering giver dig mulighed for at vise dine produkter på måder, der er svære eller umulige med traditionel fotografering. Det muliggør detaljerede visninger fra alle mulige vinkler, eksperimentering med belysningsopsætninger og test af forskellige farver og teksturer. Desuden kan 3D-visualisering tydeligt illustrere et produkts funktionalitet, demonstrere komplicerede koncepter og betydeligt reducere udgifterne ved præsentation af flere produktvariationer."
+      },
+      "visualizationTypes": {
+        "question": "Hvilke typer 3D-visualiseringer tilbyder Debutiques?",
+        "answer": "Debutiques tilbyder et omfattende udvalg af 3D-visualiseringstjenester, herunder:\n\n• Selvstændige produktrenderinger (med eller uden baggrund)\n• Indendørs og udendørs miljøvisualiseringer\n• Kontekstuelle produktpræsentationer inden for digitalt skabte indstillinger\n• 3D-animationer og videorenderinger\n• Augmented Reality (AR) visualiseringer, der gør det muligt at vise virtuelle produkter problemfrit i virkelige miljøer\n\nLeder du efter inspiration? Du er velkommen til at udforske vores fremhævede CGI-projekter for at se, hvad der er muligt!"
+      },
+      "pricing": {
+        "question": "Hvor meget koster en CGI-visualisering typisk?",
+        "answer": "Prissætningen for 3D-visualiseringstjenester varierer baseret på kompleksitet og type af leverance. Simple statiske visualiseringer kan starte fra nogle få hundrede dollars, mens omfattende animationer og AR-visualiseringer kan koste flere tusinde dollars. For at få et nøjagtigt og personligt tilbud, bedes du kontakte direkte—konsultationer og tilbud er altid gratis og kommer uden forpligtelser."
+      },
+      "cgiStudio": {
+        "question": "Hvad er præcis et CGI-studie?",
+        "answer": "Et CGI- eller 3D-studie er et specialiseret bureau fokuseret på at skabe digitale visualiseringer og animationer for virksomheder. Disse studier tilbyder fleksibilitet sammenlignet med at ansætte interne 3D-kunstnere, da du kan bestille specifikke projekter, når det er nødvendigt, uden overhead og langsigtede forpligtelser fra fuldtidsansatte."
+      },
+      "gettingStarted": {
+        "question": "Hvordan kan jeg komme i gang med at skabe en 3D-rendering til mit projekt?",
+        "answer": "Hvis du er interesseret i at skabe en 3D-rendering, skal du blot kontakte Debutiques. Vi diskuterer dine specifikke behov, forklarer hvilke typer visualiseringer, der bedst vil vise dit produkt, og giver dig et klart, ikke-bindende tilbud. Indledende konsultationer er helt gratis, hvilket giver dig mulighed for at forstå vores tilgang og sikre, at vi er det rigtige match for dit projekt."
+      }
+    }
+  },
+  "schedule": {
+    "title": "Få et tilbud",
+    "description": "Book en gratis konsultation for at diskutere dine projektkrav og udforske, hvordan vi kan hjælpe med at bringe din vision til live."
+  },
+  "contact": {
+    "title": "Lad os skabe sammen",
+    "description": "Klar til at transformere, hvordan dine kunder oplever dine møbler?",
+    "form": {
+      "name": "Navn",
+      "company": "Virksomhed",
+      "email": "E-mail",
+      "message": "Fortæl os om dit projekt",
+      "submit": "Anmod om forslag",
+      "confidential": "100% fortroligt. Vi svarer inden for 24 timer."
+    }
+  },
+  "footer": {
+    "description": "Fotorealistisk 3D-møbelvisualisering for fremadtænkende brands.",
+    "navigation": "Navigation",
+    "contact": "Kontakt",
+    "connect": "Forbind",
+    "email": "info@debutiques.com",
+    "locations": "Beograd • Frankfurt",
+    "copyright": "© {{year}} Debutiques. Alle rettigheder forbeholdes."
+  },
+  "toast": {
+    "messageSent": "Besked sendt!",
+    "messageResponse": "Vi vender tilbage inden for 24 timer.",
+    "error": "Fejl",
+    "messageFailed": "Kunne ikke sende besked. Prøv igen.",
+    "configError": "Konfigurationsfejl",
+    "emailServiceError": "E-mail-tjenesten er ikke korrekt konfigureret. Kontakt administratoren."
+  },
+  "cookieConsent": {
+    "title": "Cookie-præferencer",
+    "description": "Vi bruger cookies til at forbedre din browsing-oplevelse, levere personaliseret indhold og analysere vores trafik. Ved at klikke på 'Accepter alle' giver du samtykke til vores brug af cookies.",
+    "simpleDescription": "Vi bruger cookies til at forbedre din oplevelse på vores hjemmeside. Du kan acceptere alle cookies eller tilpasse dine præferencer.",
+    "required": "Altid aktiv",
+    "privacyPolicyLink": "Læs vores privatlivspolitik",
+    "category": {
+      "essential": {
+        "title": "Nødvendige cookies",
+        "description": "Disse cookies er nødvendige for, at hjemmesiden kan fungere og kan ikke slås fra. De sættes normalt kun som reaktion på handlinger, du foretager."
+      },
+      "analytics": {
+        "title": "Analyse-cookies",
+        "description": "Disse cookies hjælper os med at forstå, hvordan besøgende interagerer med vores hjemmeside ved at indsamle og rapportere information anonymt. Dette hjælper os med at forbedre vores hjemmesides ydeevne."
+      },
+      "marketing": {
+        "title": "Marketing-cookies",
+        "description": "Disse cookies bruges til at levere personaliserede annoncer og spore effektiviteten af vores marketingkampagner. De kan sættes af os eller tredjepartsudbydere."
+      },
+      "preferences": {
+        "title": "Præference-cookies",
+        "description": "Disse cookies husker dine valg og personaliserer din oplevelse, såsom dit foretrukne sprog eller regionsindstillinger."
+      }
+    },
+    "buttons": {
+      "acceptAll": "Accepter alle cookies",
+      "declineAll": "Afvis alle",
+      "savePreferences": "Gem mine præferencer",
+      "customizeSettings": "Tilpas indstillinger",
+      "backToSimple": "Tilbage til simpel visning"
+    }
+  }
+}
