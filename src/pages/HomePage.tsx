@@ -271,7 +271,6 @@ function HomePage() {
     { label: t('navigation.showcase'), ref: showcaseRef, id: 'showcase' },
     { label: t('navigation.process'), ref: processRef, id: 'process' },
     { label: 'About', ref: aboutRef, id: 'about' },
-    { label: 'Blog', ref: null, id: 'blog', link: '/blog' },
     { label: t('navigation.schedule'), ref: scheduleRef, id: 'schedule' },
     { label: t('navigation.contact'), ref: footerRef, id: 'footer' },
   ];
