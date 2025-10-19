@@ -476,7 +476,12 @@ function HomePage() {
           <div className="grid grid-cols-[auto,1fr,auto] items-center gap-4 md:gap-6 py-4 md:py-5">
             {/* LEFT: Logo */}
             <div className="flex items-center">
-              <button onClick={scrollToTop} aria-label="Go to top">
+              <button
+                type="button"
+                onClick={scrollToTop}
+                aria-label="Go to top"
+                className="flex flex-col items-center gap-1 text-center leading-tight"
+              >
                 <img
                   src="/assets/debutilogo2.png"
                   alt="DEBUTIQUES logo"
@@ -488,9 +493,10 @@ function HomePage() {
                     const textLogo = document.createElement('div');
                     textLogo.className = 'logo-text text-white text-xl font-bold';
                     textLogo.textContent = 'DEBUTIQUES';
-                    target.parentNode?.appendChild(textLogo);
+                    target.parentNode?.insertBefore(textLogo, target);
                   }}
                 />
+                <span className="logo-pronunciation uppercase text-white/70">/DE-BYU-TEEK/</span>
               </button>
             </div>
 
@@ -1016,7 +1022,12 @@ function HomePage() {
             {/* Column 1: Logo + blurb */}
             <div className="text-center md:text-left">
               <div className="flex justify-center md:justify-start">
-                <button onClick={scrollToTop} aria-label="Go to top">
+                <button
+                  type="button"
+                  onClick={scrollToTop}
+                  aria-label="Go to top"
+                  className="flex flex-col items-center md:items-start gap-1 text-center md:text-left leading-tight"
+                >
                   <img
                     src="/assets/debutilogo2.png"
                     alt="DEBUTIQUES logo"
@@ -1028,9 +1039,10 @@ function HomePage() {
                       const textLogo = document.createElement('div');
                       textLogo.className = 'logo-text text-white text-xl font-bold';
                       textLogo.textContent = 'DEBUTIQUES';
-                      target.parentNode?.appendChild(textLogo);
+                      target.parentNode?.insertBefore(textLogo, target);
                     }}
                   />
+                  <span className="logo-pronunciation uppercase text-white/70">/DE-BYU-TEEK/</span>
                 </button>
               </div>
               <p className="text-neutral-400 font-light mt-4">{t('footer.description')}</p>

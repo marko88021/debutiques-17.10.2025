@@ -14,9 +14,14 @@ export function Footer() {
           {/* Brand */}
           <div className="col-span-1 lg:col-span-2">
             <div className="logo-container mb-6">
-              <Link to="/" aria-label="Homepage">
+              <Link 
+                to="/" 
+                aria-label="Homepage"
+                className="flex flex-col items-start gap-1 text-left"
+              >
                 <h2 className="logo-text text-3xl">DEBUTIQUES</h2>
-                </Link>
+                <span className="logo-pronunciation uppercase text-left">/DE-BYU-TEEK/</span>
+              </Link>
             </div>
             <p className="text-gray-400 mb-8 max-w-md leading-relaxed">
               {t('footer.description')}
