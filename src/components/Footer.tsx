@@ -20,7 +20,7 @@ export function Footer() {
                 className="flex flex-col items-start gap-1 text-left"
               >
                 <h2 className="logo-text text-3xl">DEBUTIQUES</h2>
-                <span className="logo-pronunciation uppercase text-left">/DE-BYU-TEEK/</span>
+                <span className="logo-pronunciation text-left">/de-byu-teek/</span>
               </Link>
             </div>
             <p className="text-gray-400 mb-8 max-w-md leading-relaxed">

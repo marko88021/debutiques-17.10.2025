@@ -495,7 +495,7 @@ function HomePage() {
                     target.parentNode?.insertBefore(textLogo, target);
                   }}
                 />
-                <span className="logo-pronunciation uppercase text-white/70">/DE-BYU-TEEK/</span>
+                <span className="logo-pronunciation text-white/70">/de-byu-teek/</span>
               </button>
             </div>
 
@@ -1041,7 +1041,7 @@ function HomePage() {
                       target.parentNode?.insertBefore(textLogo, target);
                     }}
                   />
-                  <span className="logo-pronunciation uppercase text-white/70">/DE-BYU-TEEK/</span>
+                  <span className="logo-pronunciation text-white/70">/de-byu-teek/</span>
                 </button>
               </div>
               <p className="text-neutral-400 font-light mt-4">{t('footer.description')}</p>

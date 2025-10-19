@@ -32,7 +32,7 @@ export function Navigation() {
             <div className="flex-shrink-0">
               <div className="flex flex-col items-center text-center gap-1 leading-tight">
                 <h1 className="logo-text text-xl">DEBUTIQUES</h1>
-                <span className="logo-pronunciation uppercase">/DE-BYU-TEEK/</span>
+                <span className="logo-pronunciation">/de-byu-teek/</span>
               </div>
             </div>
 
